@@ -34,8 +34,7 @@
               "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\Editar.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T12:20:45.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T12:20:45.986Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\Criar.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T12:03:48.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T12:03:48.717Z"
             }
           ]
         }
